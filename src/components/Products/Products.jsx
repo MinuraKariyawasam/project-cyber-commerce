@@ -6,7 +6,7 @@ import useStyles from './styles'
 const products = [
     {id: 1, name: 'MacBook', description: 'M1 MacBook', price: '500.00'},
     {id: 1, name: 'Cricket', description: 'LPL Cricket Cap', price: '200.00'}
-]
+];
 
 const Products = () =>{
     const classes = useStyles();
@@ -22,7 +22,7 @@ const Products = () =>{
             ))}
         </Grid>
     </main>
-    )
+    );
     
 }
 

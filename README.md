@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Project Cyber Commerce
+
+Fully functional E-commerce shop build with React.js, E-commer.js, Stripe and Netlify. 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

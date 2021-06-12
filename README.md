@@ -1,11 +1,9 @@
-# Project Cyber Commerce
+# Project Cyber Commerce - Fully functional E-commerce shop build with React.js, E-commer.js, Stripe and Netlify.
 
-# Main Developers
+## Main Developers
 
 - Adeepa Jayawardana
 - Minura Kariyawasam
-
-Fully functional E-commerce shop build with React.js, E-commer.js, Stripe and Netlify. 
 
 
 ## Getting Started with Create React App

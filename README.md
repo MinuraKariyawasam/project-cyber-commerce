@@ -1,5 +1,10 @@
 # Project Cyber Commerce
 
+# Main Developers
+
+- Adeepa Jayawardana
+- Minura Kariyawasam
+
 Fully functional E-commerce shop build with React.js, E-commer.js, Stripe and Netlify. 
 
 
